@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\mynotes\bin\Debug\netcoreapp3.1\mynotes.exe
+C:\Users\User\source\repos\mynotes\bin\Debug\netcoreapp3.1\mynotes.deps.json
+C:\Users\User\source\repos\mynotes\bin\Debug\netcoreapp3.1\mynotes.runtimeconfig.json
+C:\Users\User\source\repos\mynotes\bin\Debug\netcoreapp3.1\mynotes.runtimeconfig.dev.json
+C:\Users\User\source\repos\mynotes\bin\Debug\netcoreapp3.1\mynotes.dll
+C:\Users\User\source\repos\mynotes\bin\Debug\netcoreapp3.1\mynotes.pdb
+C:\Users\User\source\repos\mynotes\obj\Debug\netcoreapp3.1\mynotes.csprojAssemblyReference.cache
+C:\Users\User\source\repos\mynotes\obj\Debug\netcoreapp3.1\mynotes.Form1.resources
+C:\Users\User\source\repos\mynotes\obj\Debug\netcoreapp3.1\mynotes.csproj.GenerateResource.cache
+C:\Users\User\source\repos\mynotes\obj\Debug\netcoreapp3.1\mynotes.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\mynotes\obj\Debug\netcoreapp3.1\mynotes.AssemblyInfo.cs
+C:\Users\User\source\repos\mynotes\obj\Debug\netcoreapp3.1\mynotes.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\mynotes\obj\Debug\netcoreapp3.1\mynotes.dll
+C:\Users\User\source\repos\mynotes\obj\Debug\netcoreapp3.1\mynotes.pdb
+C:\Users\User\source\repos\mynotes\obj\Debug\netcoreapp3.1\mynotes.genruntimeconfig.cache
